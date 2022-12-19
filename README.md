@@ -26,4 +26,5 @@ Funciones en JS, aplicar estilos en SASS.
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Para ver correctamente el proyecto en vivo, copiar el link y pegar en una nueva pestaña, ya que si se da click directamente, no funciona.
   
