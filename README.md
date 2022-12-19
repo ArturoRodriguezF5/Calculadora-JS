@@ -1,8 +1,7 @@
 # Calculadora JS 🎯
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
+- [https://arturorodriguezf5.github.io/Calculadora-JS/](URL-de-github-pages-de-este-proyecto)
 
 ## Descripción 📑
 
